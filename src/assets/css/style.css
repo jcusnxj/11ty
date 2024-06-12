@@ -1,0 +1,20 @@
+*,     /* CSS Selector - Selects all elements */
+*::before,  /* CSS Selector - Insert something after the content of each element */
+*::after {  /* CSS Selector - Insert something before the content of each element */
+  box-sizing: border-box; /* Defines how the width and height of an element are calculated. The width and height properties (and min/max properties) includes content, padding and border. */
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth; /* Specifies whether to smoothly animate the scroll position, instead of a straight jump, when the user clicks on a link within a scrollable box. */
+  font-size: 62.5%; /* Sets the root font size to 10px = 1rem */
+}
+
+body {
+  font-size: 1.7rem;
+  line-height: 1.5;
+  font-family: system-ui, Helvetica, "Open Sans", "Helvetica Neue", Arial, "Segoe UI", sans-serif;;
+  background-color: #14191f;
+  color: #f5f5f5;
+}
