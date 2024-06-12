@@ -1,6 +1,6 @@
 ---
 title: My 11ty Project
 layout: base
-permalink: "index.html"
+permalink: "/{{ lang }}/index.html"
 ---
 # My Eleventy Project
