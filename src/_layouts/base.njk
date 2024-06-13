@@ -8,8 +8,12 @@
     <title>{{ title }}</title> 
   </head>
   <body>
+  <div class="navigation">
+  <div class="sitename">
    <a href="/{{ lang }}/">jcusnxj</a>
+  </div>
    {% include "partials/_language.njk" %}
+  </div>
     <main>
       {{ content | safe }}    
     </main>
