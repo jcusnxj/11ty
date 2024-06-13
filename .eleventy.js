@@ -3,7 +3,6 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig){
     
@@ -58,8 +57,7 @@ module.exports = function(eleventyConfig){
     });
     // Syntax Highlighting
     eleventyConfig.addPlugin(syntaxHighlight); 
-    // RSS 
-    eleventyConfig.addPlugin(pluginRss);
+  
     // Markdown-it - override the default Markdown library used for `.md` files with markdown-it
     let markdownLibrary = markdownIt({
       html: true, // Enable HTML tags in source
