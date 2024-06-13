@@ -1,5 +1,6 @@
 const { EleventyI18nPlugin } = require("@11ty/eleventy");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig){
     
@@ -8,6 +9,10 @@ module.exports = function(eleventyConfig){
     eleventyConfig.addPassthroughCopy("src/assets/img");
     eleventyConfig.addPassthroughCopy("src/assets/js");
     
+    //shortcodes
+    // get the current year
+    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
     //Collections
     // collection of pages in english
     eleventyConfig.addCollection("post_en", function (collection) {

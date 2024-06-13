@@ -1,10 +1,10 @@
 ---
-title: My 11ty Project
+title: Blog
 layout: base
 permalink: "/{{ lang }}/index.html"
 translationKey: "homePage"
 eleventyNavigation:
-    key: Home
+    key: Blog
     order: 1
 ---
-# My Eleventy Project
+

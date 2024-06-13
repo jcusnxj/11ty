@@ -8,14 +8,37 @@
     <title>{{ title }}</title> 
   </head>
   <body>
-  <div class="navigation">
-  <div class="sitename">
-   <a href="/{{ lang }}/">jcusnxj</a>
-  </div>
-   {% include "partials/_language.njk" %}
-  </div>
-    <main>
-      {{ content | safe }}    
-    </main>
+      <div class="navigation">
+      <div class="sitename">
+      <a href="/{{ lang }}/">jcusnxj</a>
+      </div>
+      <!-- Hidden checkbox -->
+      <input type="checkbox" id="menu-toggle" class="menu-toggle" /> 
+
+      <!-- Hamburger icon, acting as a label for the checkbox -->
+      <label for="menu-toggle" class="hamburger-menu">&#9776;</label> 
+      
+      <!-- The sidebar/menu content that will be shown or hidden -->
+      <div class="menu-area">
+      {% include "partials/_sidebar_small_screen.njk" %}
+      </div>
+      {% include "partials/_language.njk" %}
+      </div>
+     
+     <div class="container">
+        <div class="sidebar">
+          <div class="stickymenu">{% include "partials/_sidebar_large_screen.njk" %}</div>
+        </div>
+        <div class="content">
+          <main>
+            <h1>{{ title }}</h1>
+            <hr>
+            {% block content %}
+            {{ content | safe }} 
+            {% endblock %}     
+          </main>
+        </div>
+     </div>
+          {% include "partials/_footer.njk" %}
   </body>
 </html>
