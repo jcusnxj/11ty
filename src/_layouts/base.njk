@@ -31,9 +31,9 @@
         </div>
         <div class="content">
           <main>
+            {% block content %}
             <h1>{{ title }}</h1>
             <hr>
-            {% block content %}
             {{ content | safe }} 
             {% endblock %}     
           </main>

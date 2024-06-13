@@ -9,6 +9,12 @@ module.exports = function(eleventyConfig){
     eleventyConfig.addPassthroughCopy("src/assets/img");
     eleventyConfig.addPassthroughCopy("src/assets/js");
     
+    //filters
+    // postDate filter
+    eleventyConfig.addFilter("postDate", (dateObj) => {
+      return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
+    });
+
     //shortcodes
     // get the current year
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
