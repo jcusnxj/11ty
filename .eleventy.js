@@ -1,6 +1,8 @@
 const { EleventyI18nPlugin } = require("@11ty/eleventy");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const { DateTime } = require("luxon");
+const markdownIt = require("markdown-it");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig){
     
@@ -53,6 +55,18 @@ module.exports = function(eleventyConfig){
       // any valid BCP 47-compatible language tag is supported
       defaultLanguage: "cs", // Required
     });
+    // Syntax Highlighting
+    eleventyConfig.addPlugin(syntaxHighlight); 
+    // Markdown-it - override the default Markdown library used for `.md` files with markdown-it
+    let markdownLibrary = markdownIt({
+      html: true, // Enable HTML tags in source
+      breaks: true, // Convert '\n' in paragraphs into <br>
+      linkify: true // Autoconvert URL-like text to links
+    // You can add more options here based on your needs
+    });
+
+    // Markdown-it - tell Eleventy to use this instance of markdown-it
+    eleventyConfig.setLibrary("md", markdownLibrary);
 
     return {
     // markdown files, data files and html files will be processed by Nunjucks
