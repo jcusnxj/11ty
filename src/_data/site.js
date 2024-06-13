@@ -2,7 +2,8 @@ module.exports = {
     title: "jcusnxj",                
     url: "https://jcusnxj.xyz",      
     baseUrl: "/",
-    author: "Frantisek",          
+    author: "Frantisek", 
+    authorEmail: "example@example.com",         
     buildTime: new Date(),
     languages: [
       {
@@ -14,4 +15,12 @@ module.exports = {
         code: "cs",
       },
     ],
+    en: {
+      subtitle: `Personal site`,
+      feedUrl: 'https://jcusnxj.xyz/en/feed.xml',
+    },
+    cs: {
+      subtitle: `Osobní stránky`,
+      feedUrl: 'https://jcusnxj.xyz/cs/feed.xml',
+    }
   };
