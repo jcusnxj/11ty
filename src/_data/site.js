@@ -17,10 +17,10 @@ module.exports = {
     ],
     en: {
       subtitle: `Personal site`,
-      feedUrl: 'https://jcusnxj.xyz/en/feed.xml',
+      feedUrl: 'http://jcusnxj.xyz/en/feed.xml',
     },
     cs: {
       subtitle: `Osobní stránky`,
-      feedUrl: 'https://jcusnxj.xyz/cs/feed.xml',
+      feedUrl: 'http://jcusnxj.xyz/cs/feed.xml',
     }
   };
