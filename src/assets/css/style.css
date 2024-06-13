@@ -18,3 +18,9 @@ body {
   background-color: #14191f;
   color: #f5f5f5;
 }
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
