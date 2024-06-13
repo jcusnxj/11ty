@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ site.url }}/{{ page.lang }}/">
+  <title>{{ site.title }}</title>
+  <subtitle>{{ site[page.lang].subtitle }}</subtitle>
+  <link href="{{ site[page.lang].feedUrl }}" rel="self" />
+  <link href="{{ site.url }}/{{ page.lang }}/"/>
+  {% set postslist = collections["post_" + page.lang] %}
+  <updated>{{ postslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ site.url }}/{{ page.lang }}</id>
+  <author>
+    <name>{{ site.author }}</name>
+    <email>{{ site.authorEmail }}</email>
+  </author>
+  {%- for post in postslist | reverse %}
+  {%- set absolutePostUrl = post.url | absoluteUrl(site.url) %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}" />
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content xml:lang="{{ page.lang }}" type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>

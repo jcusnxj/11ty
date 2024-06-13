@@ -3,6 +3,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig){
     
@@ -55,6 +56,8 @@ module.exports = function(eleventyConfig){
       // any valid BCP 47-compatible language tag is supported
       defaultLanguage: "cs", // Required
     });
+     // rss plugin
+     eleventyConfig.addPlugin(pluginRss);
     // Syntax Highlighting
     eleventyConfig.addPlugin(syntaxHighlight); 
   
