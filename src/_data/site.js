@@ -1,6 +1,6 @@
 module.exports = {
     title: "jcusnxj",                
-    url: "https://jcusnxj.xyz",      
+    url: process.env.URL || 'http://localhost:8080',      
     baseUrl: "/",
     author: "Frantisek", 
     authorEmail: "example@example.com",         
