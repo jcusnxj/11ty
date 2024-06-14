@@ -16,14 +16,18 @@
     <header>
       <div class="sitename"><a href="/{{ lang }}/">jcusnxj</a></div>
       {% include "partials/_hamburger_icon.njk" %}
-      <div class="menu-area">{% include "partials/_sidebar_mobile_screen.njk" %}</div>
+      <div class="menu-area">
+      <nav>{% include "partials/_sidebar_mobile_screen.njk" %}</nav>
+      </div>
       {% include "partials/_language.njk" %}
     </header>
      
     <div class="container">
+
       <div class="sidebar">
-        <div class="stickymenu">{% include "partials/_sidebar.njk" %}</div>
+        <nav>{% include "partials/_sidebar.njk" %}</nav>
       </div>
+
       <div class="content">
 
         <main>

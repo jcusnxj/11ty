@@ -13,17 +13,47 @@ html {
   font-size: 62.5%; /* Sets the root font size to 10px = 1rem */
 }
 
+/* GLOBAL */
+
 body {
   font-size: 1.7rem;
   line-height: 1.5;
   font-family: sans-serif;
   background-color: #14191f;
-  color: #f5f5f5;
+  color: whitesmoke;
+}
+
+h2, h3, h4, h5 {
+  padding-top: 3rem;
+}
+
+h6 {
+  font-size: 1.5rem;
+}
+
+p {
+  padding-top: 2rem;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: #5fb8fc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;   
+  font-weight: bold;
 }
 
 /* MAIN LAYOUT */ 
 
-/* NAVIGATION */
+/* HEADER */
 
 header {
   display: flex; /* Displays an element as a block-level flex container */
@@ -32,13 +62,24 @@ header {
   max-width: 150rem; 
   margin: 2rem auto; /* Creates extra space around an element. Shorthand for margin-top/right/bottom/left. 4 top/right/botom/left, 3 - top/right/botom, 2 - vertical/horizontal 1 - all */
   /* width: 100%;  Sets the width of an element. Does not include padding, borders, or margins. */
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
   background-color: #14191f;
   position: -webkit-sticky; /* For Safari */
   position: sticky;
   top: 0;  
   justify-content: flex-end;
+}
+
+header a {       
+  display: block;     
+  padding-right: 1rem;
+}
+
+.sitename {
+  margin-right: auto;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* 2-COLUMN LAYOUT */
@@ -51,6 +92,7 @@ header {
 }
 
 .sidebar {
+  display: block;
   min-width: 200px;
   padding-left: 2rem; 
 }
@@ -77,6 +119,7 @@ footer {
   margin: 0 auto;
 }
 
+/* MAIN CONTENT */
 
 /* Note on some units
 vh - Relative to 1% of the height of the viewport = the browser window size.
@@ -90,153 +133,30 @@ main {
   padding-left: 0.5rem;
 }
 
-main > ul {
-  padding-left: 2rem;
-  padding-top: 1rem;
-}
-
-main >  h2, h3, h4, h5 {
-  padding-top: 3rem;
-}
-
-h6 {
-  font-size: 1.5rem;
-}
-
-p {
-  padding-top: 2rem;
-}
-
-img,
-picture {
-  max-width: 100%;
-  display: block;
-}
-
-a {
-  color: #5fb8fc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline; 
-  text-decoration-color: #5fb8fc;  
-}
-
-
-
-.pagination {
+.pagination { /* pagination on posts */
   display: flex;
   justify-content: space-between; /* aligns the flexible container's items horizontaly */
   padding: 1rem 0;
 } 
 
+/* HIDDEN ELEMENTS BY DEFAULT */
 
-
-/* two column layout used for some notes with images */
-.double {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
+.menu-toggle {  /* Hamburger menu checkbox */
+  display: none; 
 }
 
-.left {
- flex: 40%;
- align-self: center;
- text-align: center;
- padding: 3rem;
- 
+.hamburger-menu { /* Hamburger menu icon */
+  display: none;
+  cursor: pointer; 
+  color:#5fb8fc
 }
 
-.right {
- flex: 60%;
-}
-
-.right strong {
-  color: grey;
-} 
-
-.left strong {
-  color: grey;
-} 
-
-/* Photo gallery */
-.photoContainer {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  line-height: 0;
-}
-
-.photoContainer img {
-  padding-left: 1rem;
-  padding-top: 1rem;
-}
-
-.photoContainer p {
-  padding: 0;
-}
-
-/* Styles to hide the sidebar on small screens and revert on larger screens */
-.sidebar {
-  display: block; /* default display */
-}
-
-.stickymenu {
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;
-  top: 7.5rem; 
-}
-
-/* Base styles */
-
-
-.menu-area {
-  display: none; /* Initially hidden */
+.menu-area {  /* Mobile Navigation - displayed according to hamburger menu checkbox */
+  display: none; 
   overflow-y: auto; /* Allows vertical scrolling */
 }
 
-
-/* Hide the actual checkbox */
-.menu-toggle {
-  display: none;
-}
-
-
-
-.navitem a {       /* CSS Selector - selects all <a> elements where the parent is a <nav> element */
-  display: block;     /* Displays an element as a block element. It starts on a new line, and takes up the whole width. */
-  color: #5fb8fc;
-  text-decoration: none;
-  padding: 1rem 1rem;
-}
-
-.navitem a:hover {      
-  text-decoration: underline; 
-  text-decoration-color: #5fb8fc;  
-}
-
-.sitename {
-  margin-right: auto;
-  font-size: 2rem;
-  font-weight: bold;
-}
-
-.sitename a {
-  color: white;
-}
-
-.sitename a:hover {
-  color: #5fb8fc;
-}
-
-.hamburger-menu {
-  display: none;
-  cursor: pointer; 
-}
-
-/* responsive layout */
+/* RESPONSIVE LAYOUT */
 @media (max-width: 800px) {
   
   main {
@@ -266,9 +186,6 @@ a:hover {
     font-size: 3rem;
     /* top: 0; */ 
     z-index: 2;
-  }
-
-  .hamburger-menu:hover {
     color: #5fb8fc;
   }
   
@@ -281,68 +198,120 @@ a:hover {
     top: 0;
     left: 0;
     z-index: 1;
-    padding-top: 6rem;
+    padding-top: 0rem;
     padding-left: 6rem;
     background-color: #14191f;
   }
  
 }
 
-/* SIDEBAR */
- .sidebarnav label {
-  /* ensure lable is "clickable" instead of the hidden input */
-    display: block;
-    cursor: pointer;
-    color: #5fb8fc;
-  }
+/* NAVIGATION */
 
-.sidebarnav input[type="checkbox"] {
-    display: none;
-  }
+nav {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 7.5rem; 
+  user-select: none;
+}
 
-.sidebarnav input[type="checkbox"] ~ ul{
-    height: 0;
-    transform: scaleY(0);
-  }
+nav label { /* ensure lable is "clickable" instead of the hidden input */
+  display: block;
+  cursor: pointer;
+  color: #5fb8fc;
+}
 
-.sidebarnav input[type="checkbox"]:checked ~ ul{
-    height: 100%;
-    transform-origin: top;
-    transition: transform 0s ease-out;
-    transform: scaleY(1); 
-    
-  }
+nav input[type="checkbox"] {
+  display: none;
+}
 
-  :where([role="list"]) {
-    list-style: none;
-    padding-inline-start: 0;
-  }
+nav input[type="checkbox"] ~ ul{
+  height: 0;
+  transform: scaleY(0);
+}
 
-  .sidebarnav {
+nav input[type="checkbox"]:checked ~ ul{
+  height: 100%;
+  transform-origin: top;
+  transition: transform 0s ease-out;
+  transform: scaleY(1); 
+}
 
-    user-select: none;
-  }
+:where([role="list"]) {
+  list-style: none;
+  padding-inline-start: 0;
+}
   
-  .sidebarnav a {
-    text-decoration: none;
-    display: block;             /* the link takes up the full width of the list, giving it a larger clickable surface */
-  }
+nav a {
+  text-decoration: none;
+  display: block;             /* the link takes up the full width of the list, giving it a larger clickable surface */
+}
   
-  .sidebarnav a,
-  .sidebarnav label {             
-    padding-block: 0.35rem;                   /* link and summary elements get some vertical padding */
-    transition: color .1s ease-in-out;        /* link and summary elements get - subtle transition on the color when it changes on hover */
-  }
+nav a,
+nav label {             
+  padding-block: 0.35rem;                   /* link and summary elements get some vertical padding */
+  transition: color .1s ease-in-out;        /* link and summary elements get - subtle transition on the color when it changes on hover */
+}
   
-  .sidebarnav a:hover,
-  .sidebarnav a[aria-current="page"],
-  .sidebarnav label:hover
-  /* .sidebarnav .is-active label */ {
-    text-decoration: underline; 
-    text-decoration-color: #5fb8fc;                        /* increasing the contrast on a link or summary if it's hovered over or if it's the current page */
-  }
+nav a:hover,
+nav label:hover {
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: bold;  
+}
+
+nav a[aria-current="page"],
+nav .is-active label { 
+  color: whitesmoke;
+  text-decoration: none;                        /* increasing the contrast on a link or summary if it's hovered over or if it's the current page */
+}
   
-  .sidebarnav li > [role="list"] {
-    padding-inline-start: 2rem;            /* adding some padding to indent the text for lists inside of a details element */
-  }
+nav li > [role="list"] {
+  padding-inline-start: 2rem;            /* adding some padding to indent the text for lists inside of a details element */
+}
+
+/* PHOTO GALLERY */
+.photoContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  line-height: 0;
+}
+
+.photoContainer img {
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
+.photoContainer p {
+  padding: 0;
+}
+
+/* 2-COLUMN LAYOUT USED INSIDE NOTE */
+.double {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.left {
+ flex: 40%;
+ align-self: center;
+ text-align: center;
+ padding: 3rem;
+ 
+}
+
+.right {
+ flex: 60%;
+}
+
+.right strong {
+  color: grey;
+} 
+
+.left strong {
+  color: grey;
+} 
+
 
