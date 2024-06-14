@@ -14,7 +14,7 @@ html {
 body {
   font-size: 1.7rem;
   line-height: 1.5;
-  font-family: system-ui, Helvetica, "Open Sans", "Helvetica Neue", Arial, "Segoe UI", sans-serif;;
+  font-family:  sans-serif;
   background-color: #14191f;
   color: #f5f5f5;
 }
@@ -25,8 +25,8 @@ vw - Relative to 1% of the width of the viewport = the browser window size.
 */
 
 main {
-  margin: 0 auto; /* Creates extra space around an element. Shorthand for margin-top/right/bottom/left. 4 top/right/botom/left, 3 - top/right/botom, 2 - vertical/horizontal 1 - all*/
-  min-height: calc(100vh - 9rem); /* Sets the minimum height of an element. If the content is smaller than the minimum height, the minimum height will be applied. */
+  margin: 0 auto;  /* Creates extra space around an element. Shorthand for margin-top/right/bottom/left. 4 top/right/botom/left, 3 - top/right/botom, 2 - vertical/horizontal 1 - all */
+  min-height: calc(100vh - 13rem); /* Sets the minimum height of an element. If the content is smaller than the minimum height, the minimum height will be applied. */
   max-width: 100rem; 
   padding-left: 0.5rem;
 }
@@ -74,6 +74,8 @@ footer {
   padding-right: 1rem;
   padding-left: 1rem;
   color: grey;
+  max-width: 150rem; 
+  margin: 0 auto;
 }
 
 .pagination {
@@ -85,13 +87,14 @@ footer {
 /* 2 column layout */
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: row; 
+  max-width: 150rem; 
+  margin: 0 auto;
 }
 
 .sidebar {
-  min-width: 250px;
-  padding-left: 3rem; 
-  padding-top: 3rem;
+  min-width: 200px;
+  padding-left: 2rem; 
 }
 
 .content {
@@ -175,7 +178,9 @@ footer {
   display: flex; /* Displays an element as a block-level flex container */
   align-items: center; /* Aligns the flex items vertically */
   height: 4.5rem; /* Sets the height of an element. Does not include padding, borders, or margins. */
-  width: 100%; /* Sets the width of an element. Does not include padding, borders, or margins. */
+  max-width: 150rem; 
+  margin: 2rem auto;
+  /* width: 100%;  Sets the width of an element. Does not include padding, borders, or margins. */
   padding-right: 2rem;
   padding-left: 2rem;
   background-color: #14191f;
@@ -183,6 +188,7 @@ footer {
   position: sticky;
   top: 0;  
   justify-content: flex-end;
+
 }
 
 .navitem a {       /* CSS Selector - selects all <a> elements where the parent is a <nav> element */
