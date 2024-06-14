@@ -1,3 +1,5 @@
+/* CSS RESET */
+
 *,     /* CSS Selector - Selects all elements */
 *::before,  /* CSS Selector - Insert something after the content of each element */
 *::after {  /* CSS Selector - Insert something before the content of each element */
@@ -18,6 +20,63 @@ body {
   background-color: #14191f;
   color: #f5f5f5;
 }
+
+/* MAIN LAYOUT */ 
+
+/* NAVIGATION */
+
+header {
+  display: flex; /* Displays an element as a block-level flex container */
+  align-items: center; /* Aligns the flex items vertically */
+  height: 4.5rem; /* Sets the height of an element. Does not include padding, borders, or margins. */
+  max-width: 150rem; 
+  margin: 2rem auto; /* Creates extra space around an element. Shorthand for margin-top/right/bottom/left. 4 top/right/botom/left, 3 - top/right/botom, 2 - vertical/horizontal 1 - all */
+  /* width: 100%;  Sets the width of an element. Does not include padding, borders, or margins. */
+  padding-right: 2rem;
+  padding-left: 2rem;
+  background-color: #14191f;
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;  
+  justify-content: flex-end;
+}
+
+/* 2-COLUMN LAYOUT */
+
+.container {
+  display: flex;
+  flex-direction: row; 
+  max-width: 150rem; 
+  margin: 0 auto;
+}
+
+.sidebar {
+  min-width: 200px;
+  padding-left: 2rem; 
+}
+
+.content {
+  flex-grow: 1;
+  overflow: hidden;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+
+/* FOOTER */
+footer {
+  display: flex; /* Displays an element as a block-level flex container */
+  justify-content: center; /* Aligns the flex items horizontally */
+  align-items: center; /* Aligns the flex items vertically */
+  height: 4.5rem; /* Sets the height of an element. Does not include padding, borders, or margins. */
+  width: 100%; /* Sets the width of an element. Does not include padding, borders, or margins. */
+  padding-right: 1rem;
+  padding-left: 1rem;
+  color: grey;
+  max-width: 150rem; 
+  margin: 0 auto;
+}
+
 
 /* Note on some units
 vh - Relative to 1% of the height of the viewport = the browser window size.
@@ -64,19 +123,7 @@ a:hover {
   text-decoration-color: #5fb8fc;  
 }
 
-/* FOOTER */
-footer {
-  display: flex; /* Displays an element as a block-level flex container */
-  justify-content: center; /* Aligns the flex items horizontally */
-  align-items: center; /* Aligns the flex items vertically */
-  height: 4.5rem; /* Sets the height of an element. Does not include padding, borders, or margins. */
-  width: 100%; /* Sets the width of an element. Does not include padding, borders, or margins. */
-  padding-right: 1rem;
-  padding-left: 1rem;
-  color: grey;
-  max-width: 150rem; 
-  margin: 0 auto;
-}
+
 
 .pagination {
   display: flex;
@@ -84,25 +131,7 @@ footer {
   padding: 1rem 0;
 } 
 
-/* 2 column layout */
-.container {
-  display: flex;
-  flex-direction: row; 
-  max-width: 150rem; 
-  margin: 0 auto;
-}
 
-.sidebar {
-  min-width: 200px;
-  padding-left: 2rem; 
-}
-
-.content {
-  flex-grow: 1;
-  overflow: hidden;
-  padding-left: 4rem;
-  padding-right: 4rem;
-}
 
 /* two column layout used for some notes with images */
 .double {
@@ -174,22 +203,7 @@ footer {
   display: none;
 }
 
-.navigation {
-  display: flex; /* Displays an element as a block-level flex container */
-  align-items: center; /* Aligns the flex items vertically */
-  height: 4.5rem; /* Sets the height of an element. Does not include padding, borders, or margins. */
-  max-width: 150rem; 
-  margin: 2rem auto;
-  /* width: 100%;  Sets the width of an element. Does not include padding, borders, or margins. */
-  padding-right: 2rem;
-  padding-left: 2rem;
-  background-color: #14191f;
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;
-  top: 0;  
-  justify-content: flex-end;
 
-}
 
 .navitem a {       /* CSS Selector - selects all <a> elements where the parent is a <nav> element */
   display: block;     /* Displays an element as a block element. It starts on a new line, and takes up the whole width. */

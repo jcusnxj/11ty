@@ -1,5 +1,6 @@
 {% extends "src/_layouts/base.njk" %} 
 {% block content %}
+<article>
 <h2 style="padding-top: 0rem;">{{ title }}</h2>
 <hr>
 <i>{{ date | postDate }}</i>
@@ -8,4 +9,5 @@
 <hr>
 {% include "partials/_pagination.njk" %}
 <hr>
+</article>
 {% endblock %}
