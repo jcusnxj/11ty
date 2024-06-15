@@ -12,7 +12,7 @@ eleventyNavigation:
 <div class="double">
 <div class="left">
 
-![Apollo 11 insignia](/assets/img/apollo/Apollo_11_insignia.png)
+![Apollo 11 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_11_insignia.png)
 </div>
 <div class="right">
 
@@ -42,7 +42,7 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 12 insignia](/assets/img/apollo/Apollo_12_insignia.png)
+![Apollo 12 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_12_insignia.png)
 
 </div>
 <div class="right">
@@ -74,7 +74,7 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 13 insignia](/assets/img/apollo/Apollo_13_insignia.png)
+![Apollo 13 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_13_insignia.png)
 
 </div>
 <div class="right">
@@ -104,7 +104,7 @@ Mission aborted after rupture of service module oxygen tank.
 <div class="double">
 <div class="left">
 
-![Apollo 14 insignia](/assets/img/apollo/Apollo_14_insignia.png)
+![Apollo 14 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_14_insignia.png)
 
 </div>
 <div class="right">
@@ -136,7 +136,7 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 15 insignia](/assets/img/apollo/Apollo_15_insignia.png)
+![Apollo 15 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_15_insignia.png)
 
 </div>
 <div class="right">
@@ -168,7 +168,7 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 16 insignia](/assets/img/apollo/Apollo_16_insignia.png)
+![Apollo 16 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_16_insignia.png)
 
 </div>
 <div class="right">
@@ -200,7 +200,7 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 17 insignia](/assets/img/apollo/Apollo_17_insignia.png)
+![Apollo 17 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_17_insignia.png)
 
 </div>
 <div class="right">

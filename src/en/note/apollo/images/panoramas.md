@@ -1,9 +1,9 @@
 ---
-title: Apollo Panoramata
+title: Apollo Panoramas
 translationKey: "apolloPanoramas"
 eleventyNavigation:
-  key: Panoramata
-  parent: Fotky
+  key: Panoramas
+  parent: Photos
   order: 1
 ---
 <div class="pswp-gallery" id="my-gallery">
