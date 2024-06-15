@@ -60,7 +60,7 @@ eleventyNavigation:
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A15JSC2011e118360.jpg" alt="" />
   </a>
-
+  
   <h2>Apollo 16</h2>
   <a href="/assets/img/apollo/panoramas/A16JSC2007e045381.jpg" 
     data-pswp-width="3168" 

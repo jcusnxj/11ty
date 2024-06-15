@@ -6,7 +6,6 @@ eleventyNavigation:
   parent: Fotky
   order: 2
 ---
-
 <div class="pswp-gallery" id="my-gallery">
   <div class="photoContainer">
 

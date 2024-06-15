@@ -11,11 +11,11 @@ eleventyNavigation:
 <div class="left">
 
 <div class="pswp-gallery" id="my-gallery">
-<a href="/assets/img/apollo/large/saturn_large.jpg" 
+<a href="/assets/img/apollo/hardware/saturn.jpg" 
     data-pswp-width="1448" 
     data-pswp-height="2048" 
     target="_blank">
-    <img src="/assets/img/apollo/thumbnails/saturn_small.jpg" alt="" />
+    <img src="/assets/img/apollo/hardware/thumbnails/saturn.jpg" alt="" />
 </a>
 </div>
 
@@ -34,11 +34,11 @@ A three-stage launch vehicle used in the Apollo and Skylab programs. Designed an
 <div class="left">
 
 <div class="pswp-gallery" id="my-gallery">
-<a href="/assets/img/apollo/large/csm_large.jpg" 
+<a href="/assets/img/apollo/hardware/csm.jpg" 
     data-pswp-width="1240" 
     data-pswp-height="1754" 
     target="_blank">
-    <img src="/assets/img/apollo/thumbnails/csm_thumbnail.jpg" alt="" />
+    <img src="/assets/img/apollo/hardware/thumbnails/csm.jpg" alt="" />
 </a>
 </div>
 
