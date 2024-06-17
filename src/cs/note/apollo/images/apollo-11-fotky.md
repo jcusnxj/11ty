@@ -1,5 +1,5 @@
 ---
-title: Apollo 11 fotky
+title: Apollo 11 Fotky
 translationKey: "apollo11Photos"
 eleventyNavigation:
   key: Apollo 11

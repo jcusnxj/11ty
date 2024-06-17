@@ -5,5 +5,5 @@ translationKey: "apolloPictures"
 eleventyNavigation:
   key: Photos
   parent: Apollo
-  order: 4
+  order: 2
 ---

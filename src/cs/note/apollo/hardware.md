@@ -4,7 +4,7 @@ translationKey: "apolloHardware"
 eleventyNavigation:
   key: Hardware
   parent: Apollo
-  order: 3
+  order: 4
 ---
 <h2>Saturn V</h2>
 <div class="double">
