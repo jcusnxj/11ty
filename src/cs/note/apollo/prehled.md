@@ -7,12 +7,21 @@ eleventyNavigation:
   order: 1
 ---
 
+
 <h2>Apollo 11</h2>
 
 <div class="double">
 <div class="left">
 
-![Apollo 11 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_11_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_11_insignia.png" 
+    data-pswp-width="761" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_11_insignia.png" alt="" />
+</a>
+</div>
+
 </div>
 <div class="right">
 
@@ -42,7 +51,14 @@ __Délka pobytu na Měsíci__
 <div class="double">
 <div class="left">
 
-![Apollo 12 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_12_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_12_insignia.png" 
+    data-pswp-width="768" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_12_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -74,7 +90,14 @@ __Délka pobytu na Měsíci__
 <div class="double">
 <div class="left">
 
-![Apollo 13 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_13_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_13_insignia.png" 
+    data-pswp-width="767" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_13_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -104,7 +127,14 @@ Mise přerušena po výbuchu kyslíkové nádrže v servisním modulu.
 <div class="double">
 <div class="left">
 
-![Apollo 14 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_14_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_14_insignia.png" 
+    data-pswp-width="882" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_14_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -136,7 +166,14 @@ __Délka pobytu na Měsíci__
 <div class="double">
 <div class="left">
 
-![Apollo 15 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_15_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_15_insignia.png" 
+    data-pswp-width="767" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_15_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -162,6 +199,7 @@ __Délka pobytu na Měsíci__
 </div>
 <br>
 <br>
+
 
 <h2>Apollo 16</h2>
 
@@ -207,7 +245,14 @@ __Délka pobytu na Měsíci__
 <div class="double">
 <div class="left">
 
-![Apollo 17 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_17_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_17_insignia.png" 
+    data-pswp-width="768" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_17_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -233,4 +278,6 @@ __Délka pobytu na Měsíci__
 </div>
 <br>
 <br>
+
+
 

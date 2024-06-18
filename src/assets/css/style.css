@@ -161,55 +161,6 @@ main ul {
   overflow-y: auto; /* Allows vertical scrolling */
 }
 
-/* RESPONSIVE LAYOUT */
-@media (max-width: 800px) {
-  
-  main {
-    min-width: 100%;
-    padding-left: 0rem;
-  }
-  .double {
-    flex-direction: column;
-  }
-
-  .sidebar {
-    display: none;
-  }
-
-  .sitename {
-    display: none;
-  }
-
-  .content {
-    padding: 2rem;
-  }
-
-  .hamburger-menu {
-    display: block; /* Show the hamburger icon */
-    margin-right: auto; /* Pushes everything else to the right */
-    /* position: fixed; */
-    font-size: 3rem;
-    /* top: 0; */ 
-    z-index: 2;
-    color: #5fb8fc;
-  }
-  
-  /* Display the menu when the hidden checkbox is checked */
-  .menu-toggle:checked + .hamburger-menu + .menu-area {
-    display: block;
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    padding-top: 6rem;
-    padding-left: 10rem;
-    background-color: #14191f;
-  }
- 
-}
-
 /* NAVIGATION */
 
 nav {
@@ -318,5 +269,55 @@ nav li > [role="list"] {
 .left strong {
   color: grey;
 } 
+
+/* RESPONSIVE LAYOUT */
+@media (max-width: 800px) {
+  
+  main {
+    min-width: 100%;
+    padding-left: 0rem;
+  }
+  
+  .double {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .sitename {
+    display: none;
+  }
+
+  .content {
+    padding: 2rem;
+  }
+
+  .hamburger-menu {
+    display: block; /* Show the hamburger icon */
+    margin-right: auto; /* Pushes everything else to the right */
+    /* position: fixed; */
+    font-size: 3rem;
+    /* top: 0; */ 
+    z-index: 2;
+    color: #5fb8fc;
+  }
+  
+  /* Display the menu when the hidden checkbox is checked */
+  .menu-toggle:checked + .hamburger-menu + .menu-area {
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-top: 6rem;
+    padding-left: 10rem;
+    background-color: #14191f;
+  }
+ 
+}
 
 

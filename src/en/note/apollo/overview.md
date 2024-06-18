@@ -12,7 +12,15 @@ eleventyNavigation:
 <div class="double">
 <div class="left">
 
-![Apollo 11 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_11_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_11_insignia.png" 
+    data-pswp-width="761" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_11_insignia.png" alt="" />
+</a>
+</div>
+
 </div>
 <div class="right">
 
@@ -42,7 +50,14 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 12 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_12_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_12_insignia.png" 
+    data-pswp-width="768" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_12_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -74,7 +89,14 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 13 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_13_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_13_insignia.png" 
+    data-pswp-width="767" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_13_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -104,7 +126,14 @@ Mission aborted after rupture of service module oxygen tank.
 <div class="double">
 <div class="left">
 
-![Apollo 14 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_14_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_14_insignia.png" 
+    data-pswp-width="882" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_14_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -136,7 +165,14 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 15 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_15_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_15_insignia.png" 
+    data-pswp-width="767" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_15_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -168,7 +204,14 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 16 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_16_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_16_insignia.png" 
+    data-pswp-width="773" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_16_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
@@ -200,7 +243,14 @@ __Lunar surface stay time__
 <div class="double">
 <div class="left">
 
-![Apollo 17 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_17_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_17_insignia.png" 
+    data-pswp-width="768" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_17_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
