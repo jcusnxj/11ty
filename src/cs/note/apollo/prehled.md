@@ -168,7 +168,14 @@ __Délka pobytu na Měsíci__
 <div class="double">
 <div class="left">
 
-![Apollo 16 insignia](/assets/img/apollo/insignias/thumbnails/Apollo_16_insignia.png)
+<div class="pswp-gallery" id="my-gallery">
+<a href="/assets/img/apollo/insignias/Apollo_16_insignia.png" 
+    data-pswp-width="773" 
+    data-pswp-height="768" 
+    target="_blank">
+    <img src="/assets/img/apollo/insignias/thumbnails/Apollo_16_insignia.png" alt="" />
+</a>
+</div>
 
 </div>
 <div class="right">
