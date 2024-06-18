@@ -8,8 +8,8 @@ eleventyNavigation:
     order: 1
 ---
 {% for item in collections["post_" + lang ] | reverse %}
-<a href="{{ item.url }}">{{ item.data.title }}</a>
-{{ item.data.date | postDate }}
+<a href="{{ item.url }}">{{ item.data.title }}</a> - {{ item.data.summary}} 
+<div style="color:grey;"><i>{{ item.data.date | postDate }}</i></div>
 {% endfor %}
 
 
