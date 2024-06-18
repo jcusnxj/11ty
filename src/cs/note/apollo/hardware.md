@@ -49,10 +49,10 @@ První (S-IC) a druhý (S-II) stupeň se oddělil v prvních minutách po startu
 <div class="right">
 <br><strong>Popis</strong><br>
 <b>Velitelský modul</b><i> (CM - Command Module)</i><br>
-Měl tvar kužele o výšce 3,4 m a největším průměrem 3,9 m. Jako jediná součást kosmické lodi Apollo byl opatřen tepelným štítem, protože byl mimo jiné určen pro návrat s posádkou skrz atmosféru a následném přistání v moři. Vnitřní kabina obsahovala tři křesla pro členy posádky. K jeho oddělení od Servisního modulu došlo až v závěrečné fázi mise po přiblížení k Zemi.
+Měl tvar kužele o výšce 3,4 m a maximálním průměrem 3,9 m. Jako jediná součást kosmické lodi Apollo byl opatřen tepelným štítem, protože byl mimo jiné určen pro návrat s posádkou skrz atmosféru Země a následném přistání v moři. Vnitřní kabina obsahovala tři křesla pro všechny členy posádky. K jeho oddělení od Servisního modulu došlo až v závěrečné fázi mise po přiblížení k Zemi.
 
 <b>Servisní modul</b><i> (SM - Service Module)</i> 
-Měl tvar válce s délkou 6,7 a průměrem 3,6 m. Byl rozdělený na 6 sekcí, které obsahovaly nádrže na okysličovadlo, palivo, prostor pro palivové články a nádrže na kyslík, vodík a dusík. Motor Servisního modulu zajišťoval všechny kritické manévry jako například navedení na oběžnou dráhu Měsíce (LOI) nebo její opuštění.  
+Měl tvar válce s délkou 6,7 a průměrem 3,6 m. Byl rozdělený na 6 sekcí, které obsahovaly nádrže na okysličovadlo, palivo, prostor pro palivové články a nádrže na kyslík, vodík a dusík. Motor Servisního modulu zajišťoval všechny kritické manévry jako například navedení na oběžnou dráhu Měsíce (LOI - Lunar Orbit Insertion) nebo její opuštění.  
 <br><strong>Délka</strong> 11 m
 <strong>Průměr</strong> 3.9 m
 </div>
