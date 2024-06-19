@@ -174,7 +174,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5905.jpg" alt="" />
-    <span class="pswp-caption-content">Photograph of Buzz Aldrin. On the surface under the flag, the television camera cable is visible. Mission time 110:43:33. Image number AS11-40-5905.</span>
+    <span class="pswp-caption-content">Photograph of the United States flag. On the surface under the flag, the television camera cable is visible. Mission time 110:43:33. Image number AS11-40-5905.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5927.jpg" 
@@ -206,7 +206,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5947.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin is attempting to position the passive seismometer (PSEP - Passive Seismic Experiment Package). At the same time, he informs Houston that the solar panels on the western side of the PSEP deployed automatically. He then had to manually release the panels on the eastern side. Mission time 111:06:20. Image number AS11-40-5947.</span>
+    <span class="pswp-caption-content">Buzz Aldrin is attempting to level the passive seismometer (PSEP - Passive Seismic Experiment Package). At the same time, he informs Houston that the solar panels on the western side of the PSEP deployed automatically. He then had to manually release the panels on the eastern side. Mission time 111:06:20. Image number AS11-40-5947.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5949.jpg" 
@@ -222,7 +222,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5952.jpg" alt="" />
-    <span class="pswp-caption-content">Placement of the LRRR (Lunar Laser Ranging Reflector) for measuring the distance between the Moon and Earth. On the right, a stereoscopic camera stands for taking detailed photographs of the lunar surface. Mission time 111:07:40. Image number AS11-40-5952.</span>
+    <span class="pswp-caption-content">Placement of the LRRR (Lunar Laser Ranging Reflector) for measuring the distance between the Moon and Earth. On the right, a stereoscopic close ups camera for taking detailed photographs of the lunar surface. Mission time 111:07:40. Image number AS11-40-5952.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5956.jpg" 

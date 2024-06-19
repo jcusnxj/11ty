@@ -174,7 +174,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5905.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek Buzze Aldrina. Na povrchu pod vlajkou kabel televizní kamery. Čas mise 110:43:33. Číslo snímku AS11-40-5905.</span>
+    <span class="pswp-caption-content">Snímek vlajky Spojených Států Amerických. Na povrchu pod vlajkou kabel televizní kamery. Čas mise 110:43:33. Číslo snímku AS11-40-5905.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5927.jpg" 
