@@ -57,52 +57,12 @@ eleventyNavigation:
     <span class="pswp-caption-content">Velitelský modul Columbia krátce po odpojení od LM. Vlevo od CSM krátery Taruntius K a Taruntius P a hřeben Dorsum Cayeux. Vše součástí Mare Fecunditatis (Sea of Feritlity). V horní části fotografie krátery Anvil a Taruntius H. Čas mise někdy po 100:12:03 (čas odpojení). Číslo snímku AS11-37-5445.</span>
   </a>
 
-  <a href="/assets/img/apollo/apollo-11/AS11-37-5512.jpg" 
+  <a href="/assets/img/apollo/apollo-11/AS11-44-6584.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="2000" 
     target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5512.jpg" alt="" />
-    <span class="pswp-caption-content">Pohled na lunární povrch z LM po ukončení EVA. Vlajka USA a za ní televizní kamera. Číslo snímku AS11-37-5512.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-37-5528.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5528.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin fotí Neila Amstronga po ukončení EVA bez helmy, ale jina stále v EVA obleku. Číslo snímku AS11-37-5528.</span>
-  </a>
-  
-  <a href="/assets/img/apollo/apollo-11/AS11-38-5566.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5566.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek pořízen z oběžné dráhy Měsíce během návratu k Zemi. Číslo snímku AS11-38-5566.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-38-5613.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5613.jpg" alt="" />
-    <span class="pswp-caption-content">Vzdalující se Měsíc po opuštění oběžné dráhy Měsíce (po tzv. trans-Earth injection). Číslo snímku AS11-38-5613.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-38-5666.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5666.jpg" alt="" />
-    <span class="pswp-caption-content">Vzdalující se Měsíc po opuštění oběžné dráhy Měsíce (po tzv. trans-Earth injection). Číslo snímku AS11-38-5666.</span>
-  </a>
-  
-  <a href="/assets/img/apollo/apollo-11/AS11-38-5719.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5719.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek pořízen během fáze přibližování k Zemi. Číslo snímku AS11-38-5719.</span>
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6584.jpg" alt="" />
+    <span class="pswp-caption-content">LM po oddělení od CSM na oběžné dráze Měsíce. 250mm objektiv. Číslo snímku AS11-44-6584.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-39-5762.jpg" 
@@ -110,7 +70,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-39-5762.jpg" alt="" />
-    <span class="pswp-caption-content">Výhled z okénka Lunárního modulu po ukončení EVA. Číslo snímku AS11-39-5762.</span>
+    <span class="pswp-caption-content">Výhled z okénka Lunárního modulu po přístání a před EVA. Číslo snímku AS11-39-5762.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5850.jpg" 
@@ -119,14 +79,6 @@ eleventyNavigation:
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5850.jpg" alt="" />
     <span class="pswp-caption-content">První snímek během EVA pořízený Neilem Amstrongem. Na povrchu odhozený pytel s odpadem. Čas mise 109:30:53. Číslo snímku AS11-40-5850.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-40-5851.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="1960" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5851.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek lunárního povrchu během EVA. Číslo snímku AS11-40-5851.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5858.jpg" 
@@ -153,7 +105,7 @@ eleventyNavigation:
     <span class="pswp-caption-content">Buzz Aldrin seskakující na vrchní příčku žebříku při zahájení EVA. Čas mise 109:41:56. Číslo snímku AS11-40-5866.</span>
   </a>
 
-  <a href="/assets/img/apollo/apollo-11/AS11-40-5872.jpg" 
+   <a href="/assets/img/apollo/apollo-11/AS11-40-5872.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="1960" 
     target="_blank">
@@ -185,12 +137,20 @@ eleventyNavigation:
     <span class="pswp-caption-content">Buzz Aldrin udělal tento otisk na neporušeném povrchu, aby jej mohl následně vyfotografovat pro studium odborníky na mechaniku půdy. Čas mise 110:25:09. Číslo snímku AS11-40-5877.</span>
   </a>
 
+  <a href="/assets/img/apollo/apollo-11/AS11-40-5851.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="1960" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5851.jpg" alt="" />
+    <span class="pswp-caption-content">Snímek lunárního povrchu během EVA. Číslo snímku AS11-40-5851.</span>
+  </a>
+
   <a href="/assets/img/apollo/apollo-11/AS11-40-5899.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5899.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin pořizuje fotografii pamětní plakety na žebříku lunárního modulu. Na plaketě stojí následující text: <br><br>HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON<br> JULY 1969, A. D.<br>WE CAME IN PEACE FOR ALL MANKIND<br><br> Čas mise 110:41:07. Číslo snímku AS11-40-5899.</span>
+    <span class="pswp-caption-content">Buzz Aldrin pořizuje fotografii pamětní plakety na žebříku lunárního modulu. Na plaketě stojí následující text: <br><br>HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON<br><br> JULY 1969, A. D.<br><br>WE CAME IN PEACE FOR ALL MANKIND<br><br> Čas mise 110:41:07. Číslo snímku AS11-40-5899.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5902.jpg" 
@@ -206,7 +166,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5903.jpg" alt="" />
-    <span class="pswp-caption-content">Žádná jiná Apollo fotografie nebyla reprodukována vicekrát než tento slavný portrét Buzze Aldrina. Postava fotografujícího Neila Amstronga se odráží v hledí Buzze Aldrina. Čas mise 110:42:14. Číslo snímku AS11-40-5903.</span>
+    <span class="pswp-caption-content">Žádná jiná Apollo fotografie nebyla reprodukována vícekrát než tento slavný portrét Buzze Aldrina. Postava fotografujícího Neila Amstronga se odráží v hledí Buzze Aldrina. Čas mise 110:42:14. Číslo snímku AS11-40-5903.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5905.jpg" 
@@ -289,6 +249,46 @@ eleventyNavigation:
     <span class="pswp-caption-content">Buzz Aldrin se snaží zatlouct do měsíčního povrchu tzv. "core tube" pro odběr vzorků půdy. Vedle stojí kolektor solárního větru. Vlevo na pozadí televizní kamera. Čas mise 111:11.31. Číslo snímku AS11-40-5963.</span>
   </a>
 
+  <a href="/assets/img/apollo/apollo-11/AS11-37-5512.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="2000" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5512.jpg" alt="" />
+    <span class="pswp-caption-content">Pohled na lunární povrch z LM po ukončení EVA. Vlajka USA a za ní televizní kamera. Číslo snímku AS11-37-5512.</span>
+  </a>
+
+  <a href="/assets/img/apollo/apollo-11/AS11-37-5528.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="2000" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5528.jpg" alt="" />
+    <span class="pswp-caption-content">Buzz Aldrin fotí Neila Amstronga po ukončení EVA. Neil Amstrong již bez helmy, ale jinak stále v kompletním EVA obleku. V dějinách lidstva první EVA na lunárním povrchu trvala 2 hodiny a 31 minut. Číslo snímku AS11-37-5528.</span>
+  </a>
+
+  <a href="/assets/img/apollo/apollo-11/AS11-44-6642.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="2000" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6642.jpg" alt="" />
+    <span class="pswp-caption-content">Vzletový stupeň LM při opětovném setkání s CSM na oběžné dráze Měsíce. Na povrchu Měsíce za ním Smythovo moře. 80mm objektiv. Číslo snímku AS11-44-6642.</span>
+  </a>
+
+  <a href="/assets/img/apollo/apollo-11/AS11-44-6652.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="2000" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6652.jpg" alt="" />
+    <span class="pswp-caption-content">Východ Země pořízený během oběhu Měsíce. Tmavší oblast v levé částí je Smythovo moře, v pravé části pak kráter Neper. 250mm objektiv. Číslo snímku AS11-44-6652.</span>
+  </a>
+
+  <a href="/assets/img/apollo/apollo-11/AS11-44-6555.jpg" 
+    data-pswp-width="2000" 
+    data-pswp-height="2000" 
+    target="_blank">
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6555.jpg" alt="" />
+    <span class="pswp-caption-content">Východ Země. Pořízeno z kabiny CM na oběžné dráze Měsíce. Objektiv 250mm. Číslo snímku AS11-44-6555.</span>
+  </a>
+  
   <a href="/assets/img/apollo/apollo-11/AS11-42-6241.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="2000" 
@@ -321,22 +321,6 @@ eleventyNavigation:
     <span class="pswp-caption-content">Kráter Messier (vlevo) a Messier A (vpravo). Snímek pořízen z oběžné dráhy Měsíce. Číslo snímku AS11-42-6304.</span>
   </a>
 
-  <a href="/assets/img/apollo/apollo-11/AS11-44-6555.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6555.jpg" alt="" />
-    <span class="pswp-caption-content">Východ Země. Pořízeno z kabiny CM na oběžné dráze Měsíce. Objektiv 250mm. Číslo snímku AS11-44-6555.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-44-6584.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6584.jpg" alt="" />
-    <span class="pswp-caption-content">LM po oddělení od CSM na oběžné dráze Měsíce. 250mm objektiv. Číslo snímku AS11-44-6584.</span>
-  </a>
-
   <a href="/assets/img/apollo/apollo-11/AS11-44-6610.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="1913" 
@@ -344,29 +328,13 @@ eleventyNavigation:
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6610.jpg" alt="" />
     <span class="pswp-caption-content">Měsíční povrch v okolí kráteru Daedalus. Pořízeno z oběžné dráhy Měsíce. 250mm objektiv. Číslo snímku AS11-44-6610.</span>
   </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-44-6614.jpg" 
+  
+  <a href="/assets/img/apollo/apollo-11/AS11-38-5719.jpg" 
     data-pswp-width="2000" 
     data-pswp-height="2000" 
     target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6614.jpg" alt="" />
-    <span class="pswp-caption-content">Měsíční povrch v okolí kráteru Daedalus. Pořízeno z oběžné dráhy Měsíce. 250mm objektiv. Číslo snímku AS11-44-6614.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-44-6642.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6642.jpg" alt="" />
-    <span class="pswp-caption-content">Vzletový stupeň LM při opětovném setkání s CSM na oběžné dráze Měsíce. Na povrchu Měsíce za ním Smythovo moře. 80mm objektiv. Číslo snímku AS11-44-6642.</span>
-  </a>
-
-  <a href="/assets/img/apollo/apollo-11/AS11-44-6652.jpg" 
-    data-pswp-width="2000" 
-    data-pswp-height="2000" 
-    target="_blank">
-    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6652.jpg" alt="" />
-    <span class="pswp-caption-content">Východ Země pořízený během oběhu Měsíce. Tmavší oblast v levé částí je Smythovo moře, v pravé části pak kráter Neper. 250mm objektiv. Číslo snímku AS11-44-6652.</span>
+    <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5719.jpg" alt="" />
+    <span class="pswp-caption-content">Snímek pořízen během fáze přibližování k Zemi. Číslo snímku AS11-38-5719.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6665.jpg" 
