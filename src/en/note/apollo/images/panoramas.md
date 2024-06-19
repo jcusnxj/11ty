@@ -14,6 +14,7 @@ eleventyNavigation:
     data-pswp-height="1753" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A11JSC2008e040725.jpg" alt="" />
+    <span class="pswp-caption-content">Panoramatická fotografie složená z fotografií, které Neil Amstrong pořídil z okraje Little West Crater zhruba 60m od LM. Právě do tohoto kráteru nasměroval autopilot LM za účelem přistání. V té chvíli Neil Amstrong přešel na manuální řízení a s LM přistál o kus dále. Čas mise 111:11:31.</span>
   </a>
 
 <h2>Apollo 12</h2>
@@ -22,6 +23,7 @@ eleventyNavigation:
     data-pswp-height="1066" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A12jsc2007e045376.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A12JSC2011e118358.jpg" 
@@ -29,6 +31,7 @@ eleventyNavigation:
     data-pswp-height="2013" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A12JSC2011e118358.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <h2>Apollo 14</h2>
@@ -37,6 +40,7 @@ eleventyNavigation:
     data-pswp-height="1073" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A14jsc2007e045377.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <h2>Apollo 15</h2>
@@ -45,6 +49,7 @@ eleventyNavigation:
     data-pswp-height="1073" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A15jsc2007e045378.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A15jsc2007e045379.jpg" 
@@ -52,6 +57,7 @@ eleventyNavigation:
     data-pswp-height="1180" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A15jsc2007e045379.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A15JSC2011e118360.jpg" 
@@ -59,14 +65,16 @@ eleventyNavigation:
     data-pswp-height="2392" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A15JSC2011e118360.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
-
+  
   <h2>Apollo 16</h2>
   <a href="/assets/img/apollo/panoramas/A16JSC2007e045381.jpg" 
     data-pswp-width="3168" 
     data-pswp-height="932" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A16JSC2007e045381.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A16jsc2007e045382.jpg" 
@@ -74,6 +82,7 @@ eleventyNavigation:
     data-pswp-height="877" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A16jsc2007e045382.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A16jsc2011e118363.jpg" 
@@ -81,6 +90,7 @@ eleventyNavigation:
     data-pswp-height="2076" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A16jsc2011e118363.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <h2>Apollo 17</h2>
@@ -89,6 +99,7 @@ eleventyNavigation:
     data-pswp-height="1057" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2004e20304.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17JSC2004e52772.jpg" 
@@ -96,6 +107,7 @@ eleventyNavigation:
     data-pswp-height="915" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17JSC2004e52772.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17jsc2004e52773.jpg" 
@@ -103,6 +115,7 @@ eleventyNavigation:
     data-pswp-height="885" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2004e52773.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17jsc2004e52775.jpg" 
@@ -110,6 +123,7 @@ eleventyNavigation:
     data-pswp-height="1619" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2004e52775.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17jsc2004e52779.jpg" 
@@ -117,6 +131,7 @@ eleventyNavigation:
     data-pswp-height="1191" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2004e52779.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17jsc2007e045384.jpg" 
@@ -124,6 +139,7 @@ eleventyNavigation:
     data-pswp-height="1086" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2007e045384.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
   <a href="/assets/img/apollo/panoramas/A17jsc2007e045387.jpg" 
@@ -131,6 +147,7 @@ eleventyNavigation:
     data-pswp-height="1375" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A17jsc2007e045387.jpg" alt="" />
+    <span class="pswp-caption-content">TODO</span>
   </a>
 
 </div>

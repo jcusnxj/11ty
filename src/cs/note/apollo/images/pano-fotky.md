@@ -14,7 +14,7 @@ eleventyNavigation:
     data-pswp-height="1753" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A11JSC2008e040725.jpg" alt="" />
-    <span class="pswp-caption-content">TODO</span>
+    <span class="pswp-caption-content">Panoramatická fotografie složená z fotografií, které Neil Amstrong pořídil z okraje Little West Crater zhruba 60m od LM. Právě do tohoto kráteru nasměroval autopilot LM za účelem přistání. V té chvíli Neil Amstrong přešel na manuální řízení a s LM přistál o kus dále. Čas mise 111:11:31.</span>
   </a>
 
 <h2>Apollo 12</h2>

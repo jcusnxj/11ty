@@ -14,7 +14,7 @@ eleventyNavigation:
     data-pswp-height="1971" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/69-HC-619.jpg" alt="" />
-    <span class="pswp-caption-content">Apollo je vyváženo z montážní haly směrem k odpalovacímu komplexu 39A. Číslo snímku 69-HC-619.</span>
+    <span class="pswp-caption-content">The Saturn V rocket with the Apollo 11 spacecraft is being transported from the assembly building towards launch complex 39A. Image number 69-HC-619.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/S69-38660.jpg" 
@@ -22,7 +22,7 @@ eleventyNavigation:
     data-pswp-height="1680" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/S69-38660.jpg" alt="" />
-    <span class="pswp-caption-content">Raketa Saturn V se systémem Apollo 11 na startovací rampě 39A dne 1. července 1969. Číslo snímku S69-38660.</span>
+    <span class="pswp-caption-content">The Saturn V rocket with the Apollo 11 spacecraft on launch pad 39A on July 1, 1969. Image number S69-38660.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/KSC-69PC-420.jpg" 
@@ -30,7 +30,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/KSC-69PC-420.jpg" alt="" />
-    <span class="pswp-caption-content">Start rakety Saturn V se systémem Apollo 11 pořízený automatickou kamerou na startovací věži. Číslo snímku KSC-69PC-420.</span>
+    <span class="pswp-caption-content">The launch of the Saturn V rocket with the Apollo 11 spacecraft captured by an automatic camera on the launch tower. Image number KSC-69PC-420.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-36-5313.jpg" 
@@ -38,7 +38,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-36-5313.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin zachycuje přiblížení CSM k Lunárnímu modulu během dokovacího manévru. LM je stále umístěný ve špičce nyní již neužitečného třetího stupně rakety Saturn V. Čas mise 003:21:32. Číslo snímku AS11-36-5313.</span>
+    <span class="pswp-caption-content">Buzz Aldrin captures the approach of the CSM to the Lunar Module during the docking maneuver. The LM is still located in the now useless third stage of the Saturn V rocket, designated as SIVB. Mission time 003:21:32. Image number AS11-36-5313.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-36-5390.jpg" 
@@ -46,7 +46,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-36-5390.jpg" alt="" />
-    <span class="pswp-caption-content">Neil Amstrong vyfotil Buzze Aldrina během prvotní inspekce Lunárního modulu. Čas mise 057:03:00. Číslo snímku AS11-36-5390.</span>
+    <span class="pswp-caption-content">Initial inspection of the Lunar Module. Buzz Aldrin is temporarily standing in the commander’s position, normally occupied by Armstrong, and testing the LM systems. Mission time 057:03:00. Image number AS11-36-5390.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-37-5445.jpg" 
@@ -54,7 +54,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5445.jpg" alt="" />
-    <span class="pswp-caption-content">Velitelský modul Columbia krátce po odpojení od LM. Vlevo od CSM krátery Taruntius K a Taruntius P a hřeben Dorsum Cayeux. Vše součástí Mare Fecunditatis (Sea of Feritlity). V horní části fotografie krátery Anvil a Taruntius H. Čas mise někdy po 100:12:03 (čas odpojení). Číslo snímku AS11-37-5445.</span>
+    <span class="pswp-caption-content">The Command Module Columbia shortly after detaching from the Lunar Module Eagle. To the left of the CSM are the craters Taruntius K and Taruntius P and the ridge Dorsum Cayeux, all part of Mare Fecunditatis (Sea of Fertility). At the top of the photo are the craters Anvil and Taruntius H. Mission time is sometime after 100:12:03 (time of LM and CSM detachment). Image number AS11-37-5445.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6584.jpg" 
@@ -62,7 +62,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6584.jpg" alt="" />
-    <span class="pswp-caption-content">LM po oddělení od CSM na oběžné dráze Měsíce. 250mm objektiv. Číslo snímku AS11-44-6584.</span>
+    <span class="pswp-caption-content">The LM, after separating from the CSM in lunar orbit, is preparing for its first independent flight. As long as it remains in sight of the CSM, final test maneuvers are being conducted. Image number AS11-44-6584.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-39-5762.jpg" 
@@ -70,7 +70,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-39-5762.jpg" alt="" />
-    <span class="pswp-caption-content">Výhled z okénka Lunárního modulu po přístání a před EVA. Číslo snímku AS11-39-5762.</span>
+    <span class="pswp-caption-content">View from the Lunar Module window after landing and before EVA. Image number AS11-39-5762.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5850.jpg" 
@@ -78,7 +78,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5850.jpg" alt="" />
-    <span class="pswp-caption-content">První snímek během EVA pořízený Neilem Amstrongem. Na povrchu odhozený pytel s odpadem. Čas mise 109:30:53. Číslo snímku AS11-40-5850.</span>
+    <span class="pswp-caption-content">The first photograph taken during the EVA by Neil Armstrong. A discarded jettison bag is visible on the surface. Mission time 109:30:53. Image number AS11-40-5850.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5858.jpg" 
@@ -86,7 +86,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5858.jpg" alt="" />
-    <span class="pswp-caption-content">Noha lunárního modulu Eagle. Na povrchu vedle nohy lze vidět ohnutou sondu, která před přistáním směřovala kolmo dolů. Sonda signalizovala první kontakt s lunárním povrchem během přistání. Číslo snímku AS11-40-5858.</span>
+    <span class="pswp-caption-content">The leg of the Lunar Module Eagle. Next to the leg on the surface, a bent probe can be seen, which before landing was pointing straight down. The probe's task was to signal the first contact with the lunar surface during the landing. Image number AS11-40-5858.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5862.jpg" 
@@ -94,7 +94,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5862.jpg" alt="" />
-    <span class="pswp-caption-content">První fotka, kdy Buzz Aldrin prochází průlezem LM. Dovnitř se otevírající poklop je po jeho levici. Čas mise 109:39:57. Číslo snímku AS11-40-5862.</span>
+    <span class="pswp-caption-content">The first photo of Buzz Aldrin passing through the LM hatch. While Neil Armstrong was the first person to step onto the surface of the Moon, most of the famous photos feature Buzz Aldrin. These photographs were taken by Armstrong as Aldrin descended the ladder and began working around the Lunar Module. Mission time 109:39:57. Image number AS11-40-5862.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5866.jpg" 
@@ -102,7 +102,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5866.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin seskakující na vrchní příčku žebříku při zahájení EVA. Čas mise 109:41:56. Číslo snímku AS11-40-5866.</span>
+    <span class="pswp-caption-content">Buzz Aldrin jumping onto the top rung of the ladder at the start of the EVA. Mission time 109:41:56. Image number AS11-40-5866.</span>
   </a>
 
    <a href="/assets/img/apollo/apollo-11/AS11-40-5872.jpg" 
@@ -110,7 +110,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5872.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin instaluje SWC (Solar Wind Collector). Na spodní části solární plachty je viditelný nápis "Shade" označující stranu natočenou směrem od slunce. Plachta byla vystavena slunečnímu působení 1 hodinu a 17 minut. Poté ji Buzz Aldrin opět smotal a uschoval pro pozdější analýzu na Zemi. Čas mise 110:03:24. Číslo snímku AS11-40-5872.</span>
+    <span class="pswp-caption-content">Buzz Aldrin installing the SWC (Solar Wind Collector). The word "Shade" is visible on the bottom part of the solar foil, indicating the side facing away from the sun. The SWC was exposed to sunlight for 1 hour and 17 minutes. After that, Aldrin rolled it up and stored it for later analysis on Earth. Mission time 110:03:24. Image number AS11-40-5872.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5873.jpg" 
@@ -118,7 +118,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5873.jpg" alt="" />
-    <span class="pswp-caption-content">Neil Amstrong fotí Buzze Aldrina po dokončení instalace SWC (Solar Wind Collector). V pravé části fotografie lze vidět na lunárním povrchu natažený kabel od televizní kamery. Čas mise 110:03:24. Číslo snímku AS11-40-5873.</span>
+    <span class="pswp-caption-content">Buzz Aldrin after completing the installation of the SWC (Solar Wind Collector). In the right part of the photograph, a cable from the television camera can be seen stretched across the lunar surface. Mission time 110:03:24. Image number AS11-40-5873.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5874.jpg" 
@@ -126,7 +126,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5874.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin salutuje před vlajkou Spojených Států Amerických. Čas mise 110:10:33. Číslo snímku AS11-40-5874.</span>
+    <span class="pswp-caption-content">Buzz Aldrin saluting in front of the United States flag. Mission time 110:10:33. Image number AS11-40-5874.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5877.jpg" 
@@ -134,7 +134,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5877.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin udělal tento otisk na neporušeném povrchu, aby jej mohl následně vyfotografovat pro studium odborníky na mechaniku půdy. Čas mise 110:25:09. Číslo snímku AS11-40-5877.</span>
+    <span class="pswp-caption-content">Buzz Aldrin made this footprint on the undisturbed surface so that it could be photographed for study by soil mechanics experts. Mission time 110:25:09. Image number AS11-40-5877.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5851.jpg" 
@@ -142,7 +142,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5851.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek lunárního povrchu během EVA. Číslo snímku AS11-40-5851.</span>
+    <span class="pswp-caption-content">Photograph of the lunar surface during the EVA. Image number AS11-40-5851.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5899.jpg" 
@@ -150,7 +150,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5899.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin pořizuje fotografii pamětní plakety na žebříku lunárního modulu. Na plaketě stojí následující text: <br><br>HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON<br><br> JULY 1969, A. D.<br><br>WE CAME IN PEACE FOR ALL MANKIND<br><br> Čas mise 110:41:07. Číslo snímku AS11-40-5899.</span>
+    <span class="pswp-caption-content">Buzz Aldrin takes a photograph of the commemorative plaque on the ladder of the Lunar Module. The plaque bears the following text: <br><br>Here men from the planet Earth first set foot upon the Moon July 1969, A.D. We came in peace for all mankind.<br><br> Mission time 110:41:07. Image number AS11-40-5899.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5902.jpg" 
@@ -158,7 +158,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5902.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin stojí u nohy lunárního modulu. Čas mise 110:42.14. Číslo snímku AS11-40-5902.</span>
+    <span class="pswp-caption-content">Buzz Aldrin standing by the leg of the Lunar Module. Mission time 110:42:14. Image number AS11-40-5902.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5903.jpg" 
@@ -166,7 +166,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5903.jpg" alt="" />
-    <span class="pswp-caption-content">Žádná jiná Apollo fotografie nebyla reprodukována vícekrát než tento slavný portrét Buzze Aldrina. Postava fotografujícího Neila Amstronga se odráží v hledí Buzze Aldrina. Čas mise 110:42:14. Číslo snímku AS11-40-5903.</span>
+    <span class="pswp-caption-content">No other Apollo photograph has been reproduced more often than this famous portrait of Buzz Aldrin. The figure of photographer Neil Armstrong is reflected in Buzz Aldrin's visor. Mission time 110:42:14. Image number AS11-40-5903.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5905.jpg" 
@@ -174,7 +174,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5905.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek Buzze Aldrina. Na povrchu pod vlajkou kabel televizní kamery. Čas mise 110:43:33. Číslo snímku AS11-40-5905.</span>
+    <span class="pswp-caption-content">Photograph of Buzz Aldrin. On the surface under the flag, the television camera cable is visible. Mission time 110:43:33. Image number AS11-40-5905.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5927.jpg" 
@@ -182,7 +182,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5927.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin stojí u SEQ (Scientific Equipment Bay) sekce a připravuje se vyjmout pasivní seismometr z levé přihrádky. V pravé přihrádce vedle je umístěn LRRR (Laser Ranging Retro-Reflector). Čas mise 110:53:38. Číslo snímku AS11-40-5927.</span>
+    <span class="pswp-caption-content">Buzz Aldrin standing by the SEQ (Scientific Equipment Bay) section, preparing to remove the passive seismometer from the left compartment. The LRRR (Laser Ranging Retro-Reflector) is located in the right compartment next to it. Mission time 110:53:38. Image number AS11-40-5927.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5937.jpg" 
@@ -190,7 +190,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5937.jpg" alt="" />
-    <span class="pswp-caption-content">Neil Amstrong pořizuje snímek lunárního povrchu během EVA. Čas mise 110:55:49. Číslo snímku AS11-40-5937.</span>
+    <span class="pswp-caption-content">Neil Armstrong takes a photograph of the lunar surface during the EVA. Mission time 110:55:49. Image number AS11-40-5937.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5942.jpg" 
@@ -198,7 +198,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5942.jpg" alt="" />
-    <span class="pswp-caption-content">První ze série fotografií Buzze Aldrina nesoucího EASEP (Early Apollo Scientific Experiments Package) na místo jeho instalace. V pravé ruce nese LRRR (Lase Ranging Retro-Reflector) a v levé pasivní seismometr (PSEP - Passive Seismic Experiment Package). Čas mise 110:58:16. Číslo snímku AS11-40-5942.</span>
+    <span class="pswp-caption-content">The first in a series of photographs of Buzz Aldrin carrying the EASEP (Early Apollo Scientific Experiments Package) to its installation site. He is holding the LRRR (Laser Ranging Retro-Reflector) in his right hand and the passive seismometer (PSEP - Passive Seismic Experiment Package) in his left hand. Mission time 110:58:16. Image number AS11-40-5942.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5947.jpg" 
@@ -206,7 +206,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5947.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin se snaží polohovat pasivní seismometr (PSEP - Passive Seismic Experiment Package). Zároveň informuje Houston, že solární panely na západní straně PSEP se rozložily automaticky. Panely na východní straně musel následně uvolnit manuálně. Čas mise 111:06:20. Číslo snímku AS11-40-5947.</span>
+    <span class="pswp-caption-content">Buzz Aldrin is attempting to position the passive seismometer (PSEP - Passive Seismic Experiment Package). At the same time, he informs Houston that the solar panels on the western side of the PSEP deployed automatically. He then had to manually release the panels on the eastern side. Mission time 111:06:20. Image number AS11-40-5947.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5949.jpg" 
@@ -214,7 +214,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5949.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek Buzze Aldrina u pasivního seismometru (PSEP - Passive Seismic Experiment Package) po rozložení solárních panelů na obou stranách experimentu. Čas mise 111:06:34. Číslo snímku AS11-40-5949.</span>
+    <span class="pswp-caption-content">Photograph of Buzz Aldrin by the passive seismometer (PSEP - Passive Seismic Experiment Package) after deploying the solar panels on both sides of the experiment. Mission time 111:06:34. Image number AS11-40-5949.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5952.jpg" 
@@ -222,7 +222,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5952.jpg" alt="" />
-    <span class="pswp-caption-content">Umístění LRRR (Lunar Laser Ranging Reflector) pro měření vzdálenosti Měsíce od Země. V pravo stojí stereofotoaparát pro pořizování detailních snímků měsíčního povrchu. Čas mise 111:07:40. Číslo snímku AS11-40-5952.</span>
+    <span class="pswp-caption-content">Placement of the LRRR (Lunar Laser Ranging Reflector) for measuring the distance between the Moon and Earth. On the right, a stereoscopic camera stands for taking detailed photographs of the lunar surface. Mission time 111:07:40. Image number AS11-40-5952.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5956.jpg" 
@@ -230,7 +230,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5956.jpg" alt="" />
-    <span class="pswp-caption-content">Kráter Little West zhruba 60m od LM.  Čas mise 111:11:31. Číslo snímku AS11-40-5956.</span>
+    <span class="pswp-caption-content">Crater Little West, approximately 60 meters from the LM. The LM autopilot aimed for this crater for landing. At that moment, Neil Armstrong switched to manual control and landed the LM a bit further away. Mission time 111:11:31. Image number AS11-40-5956.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5961.jpg" 
@@ -238,7 +238,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5961.jpg" alt="" />
-    <span class="pswp-caption-content">Neil Amstrong fotografuje lunární modul z kraje Little West Crater. Čas mise 111:11:31. Číslo snímku AS11-40-5961.</span>
+    <span class="pswp-caption-content">Neil Armstrong photographs the Lunar Module from the edge of Little West Crater. Mission time 111:11:31. Image number AS11-40-5961.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-40-5963.jpg" 
@@ -246,7 +246,7 @@ eleventyNavigation:
     data-pswp-height="1960" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-40-5963.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin se snaží zatlouct do měsíčního povrchu tzv. "core tube" pro odběr vzorků půdy. Vedle stojí kolektor solárního větru. Vlevo na pozadí televizní kamera. Čas mise 111:11.31. Číslo snímku AS11-40-5963.</span>
+    <span class="pswp-caption-content">Buzz Aldrin is attempting to hammer a "core tube" into the lunar surface to collect soil samples. Next to him stands the solar wind collector. In the background to the left, the television camera is visible. Mission time 111:11:31. Image number AS11-40-5963.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-37-5512.jpg" 
@@ -254,7 +254,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5512.jpg" alt="" />
-    <span class="pswp-caption-content">Pohled na lunární povrch z LM po ukončení EVA. Vlajka USA a za ní televizní kamera. Číslo snímku AS11-37-5512.</span>
+    <span class="pswp-caption-content">View of the lunar surface from the LM after the EVA. The U.S. flag and the television camera are visible behind it. Image number AS11-37-5512.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-37-5528.jpg" 
@@ -262,7 +262,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5528.jpg" alt="" />
-    <span class="pswp-caption-content">Buzz Aldrin fotí Neila Amstronga po ukončení EVA. Neil Amstrong již bez helmy, ale jinak stále v kompletním EVA obleku. V dějinách lidstva první EVA na lunárním povrchu trvala 2 hodiny a 31 minut. Číslo snímku AS11-37-5528.</span>
+    <span class="pswp-caption-content">A happy Neil Armstrong after the successful completion of the EVA. Without his helmet, but still in his full EVA suit. The first EVA on the surface of another celestial body in human history lasted exactly 2 hours and 31 minutes. Image number AS11-37-5528.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6642.jpg" 
@@ -270,7 +270,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6642.jpg" alt="" />
-    <span class="pswp-caption-content">Vzletový stupeň LM při opětovném setkání s CSM na oběžné dráze Měsíce. Na povrchu Měsíce za ním Smythovo moře. 80mm objektiv. Číslo snímku AS11-44-6642.</span>
+    <span class="pswp-caption-content">The ascent stage of the LM during the rendezvous with the CSM in lunar orbit. Behind it on the surface of the Moon is Smyth's Sea. The time spent on the lunar surface was exactly 21.6 hours. Image number AS11-44-6642.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6652.jpg" 
@@ -278,7 +278,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6652.jpg" alt="" />
-    <span class="pswp-caption-content">Východ Země pořízený během oběhu Měsíce. Tmavší oblast v levé částí je Smythovo moře, v pravé části pak kráter Neper. 250mm objektiv. Číslo snímku AS11-44-6652.</span>
+    <span class="pswp-caption-content">Earthrise captured during lunar orbit. The darker area on the left side is Smyth's Sea, and on the right side is the Neper crater. Image number AS11-44-6652.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6555.jpg" 
@@ -286,7 +286,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6555.jpg" alt="" />
-    <span class="pswp-caption-content">Východ Země. Pořízeno z kabiny CM na oběžné dráze Měsíce. Objektiv 250mm. Číslo snímku AS11-44-6555.</span>
+    <span class="pswp-caption-content">Earthrise. Taken from the CM cabin in lunar orbit. Image number AS11-44-6555.</span>
   </a>
   
   <a href="/assets/img/apollo/apollo-11/AS11-42-6241.jpg" 
@@ -294,7 +294,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-42-6241.jpg" alt="" />
-    <span class="pswp-caption-content">Kráter Theophilus. Snímek pořízen z oběžné dráhy Měsíce. Číslo snímku AS11-42-6241.</span>
+    <span class="pswp-caption-content">Theophilus Crater. Photograph taken from lunar orbit. Image number AS11-42-6241.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-42-6248.jpg" 
@@ -302,7 +302,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-42-6248.jpg" alt="" />
-    <span class="pswp-caption-content">Kráter Crookes. Snímek pořízen z oběžné dráhy Měsíce. Číslo snímku AS11-42-6248.</span>
+    <span class="pswp-caption-content">Crookes Crater. Photograph taken from lunar orbit. Image number AS11-42-6248.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-42-6276.jpg" 
@@ -310,7 +310,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-42-6276.jpg" alt="" />
-    <span class="pswp-caption-content">Kráter Lebedinskiy. Snímek pořízen z oběžné dráhy Měsíce. Číslo snímku AS11-42-6276.</span>
+    <span class="pswp-caption-content">Lebedinskiy Crater. Photograph taken from lunar orbit. Image number AS11-42-6276.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-42-6304.jpg" 
@@ -318,7 +318,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-42-6304.jpg" alt="" />
-    <span class="pswp-caption-content">Kráter Messier (vlevo) a Messier A (vpravo). Snímek pořízen z oběžné dráhy Měsíce. Číslo snímku AS11-42-6304.</span>
+    <span class="pswp-caption-content">Messier Crater (left) and Messier A Crater (right). Photograph taken from lunar orbit. Image number AS11-42-6304.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6610.jpg" 
@@ -326,7 +326,7 @@ eleventyNavigation:
     data-pswp-height="1913" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6610.jpg" alt="" />
-    <span class="pswp-caption-content">Měsíční povrch v okolí kráteru Daedalus. Pořízeno z oběžné dráhy Měsíce. 250mm objektiv. Číslo snímku AS11-44-6610.</span>
+    <span class="pswp-caption-content">The lunar surface around Daedalus Crater. Taken from lunar orbit. Image number AS11-44-6610.</span>
   </a>
   
   <a href="/assets/img/apollo/apollo-11/AS11-38-5719.jpg" 
@@ -334,7 +334,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-38-5719.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek pořízen během fáze přibližování k Zemi. Číslo snímku AS11-38-5719.</span>
+    <span class="pswp-caption-content">Photograph taken during the approach phase to Earth. Image number AS11-38-5719.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6665.jpg" 
@@ -342,7 +342,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6665.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek Měsíce pořízený při návratu CSM k Zemi. Číslo snímku AS11-44-6665.</span>
+    <span class="pswp-caption-content">Photograph of the Moon taken during the return of the CSM to Earth. Image number AS11-44-6665.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6692.jpg" 
@@ -350,7 +350,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6692.jpg" alt="" />
-    <span class="pswp-caption-content">Pobřeží Somálska. Snímek pořízený při návratu CSM k Zemi. 250mm objektiv. Číslo snímku AS11-44-6692.</span>
+    <span class="pswp-caption-content">Somali Coast. Photograph taken during the return of the CSM to Earth. Image number AS11-44-6692.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6694.jpg" 
@@ -358,7 +358,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-44-6694.jpg" alt="" />
-    <span class="pswp-caption-content">Snímek pořízený při návratu CSM k Zemi. 250mm objektiv. Číslo snímku AS11-44-6694.</span>
+    <span class="pswp-caption-content">Photograph taken during the return of the CSM to Earth. Image number AS11-44-6694.</span>
   </a>
 
 </div>
