@@ -9,15 +9,17 @@ eleventyNavigation:
 <div class="pswp-gallery" id="my-gallery">
 
 <h2>Apollo 11</h2>
+
   <a href="/assets/img/apollo/panoramas/A11JSC2008e040725.jpg" 
     data-pswp-width="6144" 
     data-pswp-height="1753" 
     target="_blank">
     <img src="/assets/img/apollo/panoramas/thumbnails/A11JSC2008e040725.jpg" alt="" />
-    <span class="pswp-caption-content">Panoramatická fotografie složená z fotografií, které Neil Amstrong pořídil z okraje Little West Crater zhruba 60m od LM. Právě do tohoto kráteru nasměroval autopilot LM za účelem přistání. V té chvíli Neil Amstrong přešel na manuální řízení a s LM přistál o kus dále. Čas mise 111:11:31.</span>
+    <span class="pswp-caption-content">Panorama složené z fotografií, které Neil Amstrong pořídil z okraje Little West Crater zhruba 60m od LM. Právě do tohoto kráteru nasměroval autopilot LM za účelem přistání. V té chvíli Neil Amstrong přešel na manuální řízení a s LM přistál o kus dále. Čas mise 111:11:31. Číslo snímku JSC2008e040725.</span>
   </a>
-
+<hr>
 <h2>Apollo 12</h2>
+
   <a href="/assets/img/apollo/panoramas/A12jsc2007e045376.jpg" 
     data-pswp-width="3272" 
     data-pswp-height="1066" 
@@ -33,8 +35,9 @@ eleventyNavigation:
     <img src="/assets/img/apollo/panoramas/thumbnails/A12JSC2011e118358.jpg" alt="" />
     <span class="pswp-caption-content">TODO</span>
   </a>
-
+  <hr>
   <h2>Apollo 14</h2>
+
   <a href="/assets/img/apollo/panoramas/A14jsc2007e045377.jpg" 
     data-pswp-width="3231" 
     data-pswp-height="1073" 
@@ -42,8 +45,9 @@ eleventyNavigation:
     <img src="/assets/img/apollo/panoramas/thumbnails/A14jsc2007e045377.jpg" alt="" />
     <span class="pswp-caption-content">TODO</span>
   </a>
-
+  <hr>
   <h2>Apollo 15</h2>
+
   <a href="/assets/img/apollo/panoramas/A15jsc2007e045378.jpg" 
     data-pswp-width="3485" 
     data-pswp-height="1073" 
@@ -67,8 +71,9 @@ eleventyNavigation:
     <img src="/assets/img/apollo/panoramas/thumbnails/A15JSC2011e118360.jpg" alt="" />
     <span class="pswp-caption-content">TODO</span>
   </a>
-  
+  <hr>
   <h2>Apollo 16</h2>
+
   <a href="/assets/img/apollo/panoramas/A16JSC2007e045381.jpg" 
     data-pswp-width="3168" 
     data-pswp-height="932" 
@@ -92,8 +97,9 @@ eleventyNavigation:
     <img src="/assets/img/apollo/panoramas/thumbnails/A16jsc2011e118363.jpg" alt="" />
     <span class="pswp-caption-content">TODO</span>
   </a>
-
+  <hr>
   <h2>Apollo 17</h2>
+  
   <a href="/assets/img/apollo/panoramas/A17jsc2004e20304.jpg" 
     data-pswp-width="3001" 
     data-pswp-height="1057" 

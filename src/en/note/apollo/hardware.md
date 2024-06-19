@@ -28,9 +28,10 @@ The first (S-IC) and second (S-II) stages separated in the first minutes after l
 <br><strong>Height</strong> 110.6 m
 <strong>Width</strong> 10.1 m
 <strong>Weight</strong> 2 950 500 kg
+<br>
 </div>
 </div>
-
+<hr>
 <h2>CSM</h2>
 <div class="double">
 <div class="left">

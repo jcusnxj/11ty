@@ -6,8 +6,6 @@ eleventyNavigation:
   parent: Apollo
   order: 1
 ---
-
-
 <h2>Apollo 11</h2>
 
 <div class="double">
@@ -25,7 +23,7 @@ eleventyNavigation:
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Columbia a LM Eagle
 
 __Posádka__
@@ -44,8 +42,8 @@ __Délka pobytu na Měsíci__
 
 </div>
 </div>
-<br><br>
-
+<br>
+<hr>
 <h2 id="2">Apollo 12</h2>
 
 <div class="double">
@@ -63,7 +61,7 @@ __Délka pobytu na Měsíci__
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Yankee Clipper a LM Intrepid
 
 __Posádka__ 
@@ -83,8 +81,7 @@ __Délka pobytu na Měsíci__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2 id="2">Apollo 13</h2>
 
 <div class="double">
@@ -102,7 +99,7 @@ __Délka pobytu na Měsíci__
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Odyssey a LM Aquarius
 
 __Posádka__ 
@@ -120,8 +117,7 @@ Mise přerušena po výbuchu kyslíkové nádrže v servisním modulu.
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 14</h2>
 
 <div class="double">
@@ -139,7 +135,7 @@ Mise přerušena po výbuchu kyslíkové nádrže v servisním modulu.
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Kitty Hawk a LM Antares
 
 __Posádka__
@@ -159,8 +155,7 @@ __Délka pobytu na Měsíci__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 15</h2>
 
 <div class="double">
@@ -178,7 +173,7 @@ __Délka pobytu na Měsíci__
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Endeavour a LM Falcon
 
 __Posádka__
@@ -198,9 +193,7 @@ __Délka pobytu na Měsíci__
 </div>
 </div>
 <br>
-<br>
-
-
+<hr>
 <h2>Apollo 16</h2>
 
 <div class="double">
@@ -218,7 +211,7 @@ __Délka pobytu na Měsíci__
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM Casper a LM Orion
 
 __Posádka__ 
@@ -238,8 +231,7 @@ __Délka pobytu na Měsíci__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 17</h2>
 
 <div class="double">
@@ -257,7 +249,7 @@ __Délka pobytu na Měsíci__
 </div>
 <div class="right">
 
-__Vesmírná loď__ 
+__Kosmická loď__ 
 CSM America a LM Challenger
 
 __Posádka__

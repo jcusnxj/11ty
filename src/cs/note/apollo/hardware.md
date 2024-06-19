@@ -25,13 +25,14 @@ eleventyNavigation:
 Třístupňová nosná raketa používaná v programu Apollo a Skylab. Navržena a vyvinuta pod vedením Wernhera von Brauna, který byl za druhé světové války součástí teamu v německém programu raketových střel V-2.
 
 První (S-IC) a druhý (S-II) stupeň se oddělil v prvních minutách po startu. Na parkovací orbitální dráhu kolem Země ve výšce cca 185 km pak vynesl kosmickou loď Apollo třetí stupeň (S-IVB). Uvnitř tohoto stupně byl schovaný Lunární modul, CSM modul byl naopak přidělaný na jeho špičce. Opětovný a poslední zážeh třetího stupně (TLI - Trans Lunar Injection) poslal kosmickou loď Apollo definitivně směrem k Měsíci.    
-
 <br><strong>Výška</strong> 110.6 m
 <strong>Šířka</strong> 10.1 m
 <strong>Váha</strong> 2 950 500 kg
+<br>
 </div>
 </div>
 
+<hr>
 <h2>CSM</h2>
 <div class="double">
 <div class="left">

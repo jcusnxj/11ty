@@ -43,8 +43,8 @@ __Lunar surface stay time__
 
 </div>
 </div>
-<br><br>
-
+<br>
+<hr>
 <h2 id="2">Apollo 12</h2>
 
 <div class="double">
@@ -82,8 +82,7 @@ __Lunar surface stay time__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2 id="2">Apollo 13</h2>
 
 <div class="double">
@@ -119,8 +118,7 @@ Mission aborted after rupture of service module oxygen tank.
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 14</h2>
 
 <div class="double">
@@ -158,8 +156,7 @@ __Lunar surface stay time__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 15</h2>
 
 <div class="double">
@@ -197,8 +194,7 @@ __Lunar surface stay time__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 16</h2>
 
 <div class="double">
@@ -236,8 +232,7 @@ __Lunar surface stay time__
 </div>
 </div>
 <br>
-<br>
-
+<hr>
 <h2>Apollo 17</h2>
 
 <div class="double">
