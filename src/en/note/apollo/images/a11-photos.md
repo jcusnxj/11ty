@@ -54,7 +54,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5445.jpg" alt="" />
-    <span class="pswp-caption-content">The Command Module Columbia shortly after detaching from the Lunar Module Eagle. To the left of the CSM are the craters Taruntius K and Taruntius P and the ridge Dorsum Cayeux, all part of Mare Fecunditatis (Sea of Fertility). At the top of the photo are the craters Anvil and Taruntius H. Mission time is sometime after 100:12:03 (time of LM and CSM detachment). Image number AS11-37-5445.</span>
+    <span class="pswp-caption-content">The Command Module Columbia shortly after detaching from the Lunar Module Eagle. Mission time is sometime after 100:12:03 (time of LM and CSM detachment). Image number AS11-37-5445.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6584.jpg" 

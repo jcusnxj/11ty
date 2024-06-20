@@ -54,7 +54,7 @@ eleventyNavigation:
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-11/thumbnails/AS11-37-5445.jpg" alt="" />
-    <span class="pswp-caption-content">Velitelský modul Columbia krátce po odpojení od lunárního modulu Eagle. Vlevo od CSM krátery Taruntius K a Taruntius P a hřeben Dorsum Cayeux. Vše součástí Mare Fecunditatis (Sea of Feritlity). V horní části fotografie krátery Anvil a Taruntius H. Čas mise někdy po 100:12:03 (čas odpojení LM a CSM). Číslo snímku AS11-37-5445.</span>
+    <span class="pswp-caption-content">Velitelský modul Columbia krátce po odpojení od lunárního modulu Eagle. Čas mise někdy po 100:12:03 (čas odpojení LM a CSM). Číslo snímku AS11-37-5445.</span>
   </a>
 
   <a href="/assets/img/apollo/apollo-11/AS11-44-6584.jpg" 
