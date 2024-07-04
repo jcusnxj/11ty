@@ -490,7 +490,7 @@ eleventyNavigation:
   </a>
 
   <a href="/assets/img/apollo/apollo-12/AS12-55-8212.jpg" 
-    data-pswp-width="2000" 
+    data-pswp-width="1913" 
     data-pswp-height="2000" 
     target="_blank">
     <img src="/assets/img/apollo/apollo-12/thumbnails/AS12-55-8212.jpg" alt="" />
